@@ -12,6 +12,7 @@ public class FirstGitProject {
 		System.out.println("let's get started");
 		WebDriver driver = new FirefoxDriver();
 		driver.get("http:\\www.github.com");
+		driver.get("http:\\www.facebook.com");
 	}
 
 }
